@@ -475,6 +475,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [3DLogo.io](https://3dlogo.io/integrations) - Design 3D logos and 3D coins, manage and share projects, and generate 3D models from images with AI. Remote Streamable HTTP server at https://3dlogo.io/api/mcp with an anonymous tier.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
